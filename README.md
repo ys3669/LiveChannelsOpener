@@ -9,5 +9,5 @@ Device:Chromecast with Google TV(GA01919-JP)
 DL:[https://github.com/ys3669/LiveChannelsOpener/releases]([https://github.com/ys3669/LiveChannelsOpener/releases)
 
 Screenshots
-![Screenshots2](https://i.imgur.com/quONhVT.png?2)
-![Screenshots1](https://i.imgur.com/quONhVT.png?1)
+![Screenshots2](https://i.imgur.com/quONhVT.png)
+![Screenshots1](https://i.imgur.com/daJpDw7.png)
