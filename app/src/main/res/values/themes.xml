@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.LiveChannels" parent="@style/Theme.AppCompat" >
+        <item name="android:colorPrimary">#0285D3</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+    </style>
+    </resources>

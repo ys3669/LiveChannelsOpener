@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveChannels Opener</string>
+    <string name="text">PLEASE Install Live Channels</string>
+    <string name="button">Play Store OPEN</string>
+    <string name="exit">exit</string>
+    <string name="missing_app">対象のアプリが見つかりません</string>
+</resources>
