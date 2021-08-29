@@ -6,7 +6,7 @@ LiveChannels(com.google.android.tv)を起動するためのapp
 
 Device:Chromecast with Google TV(GA01919-JP)
 
-DL:[https://github.com/ys3669/LiveChannelsOpener/releases]([https://github.com/ys3669/LiveChannelsOpener/releases)
+DL:[https://github.com/ys3669/LiveChannelsOpener/releases](https://github.com/ys3669/LiveChannelsOpener/releases)
 
 Screenshots
 ![Screenshots2](https://i.imgur.com/quONhVT.png)
